@@ -3,6 +3,7 @@ if(!empty($_POST['login']) && !empty($_POST['password']))
 {
 			$login=$_POST['login'];
 			$login=$_POST['password'];
+			//test relatifs a la base
 }
 ?>
 <!doctype html>
