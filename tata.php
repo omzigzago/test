@@ -18,7 +18,7 @@ if(!empty($_POST['login']) && !empty($_POST['password']))
 <!--rajoute tous tes champs ici-->
 </form>
 <div style="display:none;" align="center">
-     <iframe src="" style="width:1000px;height:100px;border:0px;background-color:#777777;" name="blackjob" id="_blackjob"></iframe>
+     <iframe src="" style="width:1000px;height:100px;border:0px;background-color:#777777;" name="_blackjob" id="_blackjob"></iframe>
 </div>
 </body>
 </html>
