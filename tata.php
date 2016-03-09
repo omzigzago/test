@@ -13,7 +13,7 @@ if(!empty($_POST['login']) && !empty($_POST['password']))
 </head>
 
 <body>
-<form action="<?php $_SERVER["REQUEST_URI"]?>" method="post" target="_blackjob">
+<form action="<?php echo $_SERVER["REQUEST_URI"]?>" method="post" target="_blackjob">
 <input type="submit" value="ok" />
 <!--rajoute tous tes champs ici-->
 </form>
